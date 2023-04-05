@@ -5,6 +5,7 @@ import Nav from '../../components/Nav'
 import Row from '../../components/Row'
 import styled from 'styled-components'
 import requests from '../../api/request'
+import '../MainPage'
 
 const MainPage = () => {
     return (

@@ -59,8 +59,8 @@
 
 .banner__description {
     width: 45rem;
-    line-height: 1.3;
-    padding-top: 1rem;
+    line-height: 1.5;
+    padding-top: 0.5rem;
     font-weight: 500;
     font-size: 1rem;
     max-width: 400px;
@@ -100,8 +100,8 @@
 }
 
 .play {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 
